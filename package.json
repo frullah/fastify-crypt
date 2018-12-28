@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^3.0.3",
+    "bluebird": "^3.5.3",
     "fastify-plugin": "^1.4.0"
   },
   "devDependencies": {
