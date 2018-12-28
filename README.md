@@ -1,1 +1,1 @@
-# fastify-plugin-template
+# fastify-crypt
